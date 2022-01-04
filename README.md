@@ -1,8 +1,6 @@
 # web-directory
 ## Katalog stron WWW [Project is in Polish language]
 
-![preview](lityskatalog.jpg)
-
 Głównym założeniem projektu była szybkość działania strony.
 
 ## Instalacja
