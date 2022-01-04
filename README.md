@@ -8,7 +8,6 @@ Głównym założeniem projektu była szybkość działania strony.
 ## Instalacja
 1. Wpisz `adres-domeny/install.php` w adresie przeglądarki
 2. Przygotuj bazę danych i wprowadź wymagane dane w instalatorze
-**GOTOWE!**
 
 ## Opis projektu
 System do katalogu stron zawiera następujące strony:
