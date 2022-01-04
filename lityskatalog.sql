@@ -52,13 +52,13 @@ CREATE TABLE `components` (
 --
 
 INSERT INTO `components` (`id`, `name`, `data`) VALUES
-(1, 'home_slider', '[{\"img\":\"https://graphs.promoznawcy.pl/katalog/katalog_head.jpg\"}]'),
-(2, 'sidebar_swiper', '[{\"img\":\"https://graphs.promoznawcy.pl/katalog/katalog_head.jpg\",\"title\":\"1Lorem ipsum1\",\"description\":\"1Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis saepe illum aut omnis vitae earum reiciendis aliquid a voluptate nesciunt eligendi, maxime laborum laboriosam facere doloribus id aliquam magnam!\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"}]'),
+(1, 'home_slider', '[{\"img\":\"litys.github.io/logo_white.png\"}]'),
+(2, 'sidebar_swiper', '[{\"img\":\"litys.github.io/logo_white.png\",\"title\":\"1Lorem ipsum1\",\"description\":\"1Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis saepe illum aut omnis vitae earum reiciendis aliquid a voluptate nesciunt eligendi, maxime laborum laboriosam facere doloribus id aliquam magnam!\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"}]'),
 (3, 'sidebar_text', '[{\"html\":\"Test\"}]'),
 (4, 'rules', '[{\"text\":\"Lorem ipsum\"}]'),
 (5, 'ad_home', '[{\"html\":\"\"}]'),
 (6, 'ad_sidebar', '[{\"html\":\"\"}]'),
-(7, 'head', '[{\"logo\":\"https:\\/\\/graphs.promoznawcy.pl\\/katalog\\/katalog_logo.png\",\"footer\":\"\\u00a9 2021. Wszelkie prawa zastrze\\u017cone. Kup ten skrypt na <a href=\\\"https:\\/\\/promoznawcy.pl\\\">PROMOznawcy.pl<\\/a> | W\\u0142a\\u015bciciel katalogu jest PROMOznawcy.pl.\"}]'),
+(7, 'head', '[{\"logo\":\"https:\\/\\/litys.github.io\\/logo_white.png\",\"footer\":\"\\u00a9 2021. Wszelkie prawa zastrze\\u017cone. <a href=\\\"https:\\/\\/litys.github.pl\\\">litys.github.io<\\/a> | W\\u0142a\\u015bciciel katalogu jest litys.github.io.\"}]'),
 (8, 'stats', '[{\"bots\":\"0\",\"visits\":0}]');
 
 -- --------------------------------------------------------
