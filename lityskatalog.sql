@@ -52,8 +52,8 @@ CREATE TABLE `components` (
 --
 
 INSERT INTO `components` (`id`, `name`, `data`) VALUES
-(1, 'home_slider', '[{\"img\":\"litys.github.io/logo_white.png\"}]'),
-(2, 'sidebar_swiper', '[{\"img\":\"litys.github.io/logo_white.png\",\"title\":\"1Lorem ipsum1\",\"description\":\"1Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis saepe illum aut omnis vitae earum reiciendis aliquid a voluptate nesciunt eligendi, maxime laborum laboriosam facere doloribus id aliquam magnam!\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"}]'),
+(1, 'home_slider', '[{\"img\":\"https://picsum.photos/3000/2000\"}]'),
+(2, 'sidebar_swiper', '[{\"img\":\"https://picsum.photos/3000/2000\",\"title\":\"1Lorem ipsum1\",\"description\":\"1Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis saepe illum aut omnis vitae earum reiciendis aliquid a voluptate nesciunt eligendi, maxime laborum laboriosam facere doloribus id aliquam magnam!\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"},{\"img\":\"\",\"title\":\"\",\"description\":\"\"}]'),
 (3, 'sidebar_text', '[{\"html\":\"Test\"}]'),
 (4, 'rules', '[{\"text\":\"Lorem ipsum\"}]'),
 (5, 'ad_home', '[{\"html\":\"\"}]'),
