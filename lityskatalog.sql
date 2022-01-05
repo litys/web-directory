@@ -58,7 +58,7 @@ INSERT INTO `components` (`id`, `name`, `data`) VALUES
 (4, 'rules', '[{\"text\":\"Lorem ipsum\"}]'),
 (5, 'ad_home', '[{\"html\":\"\"}]'),
 (6, 'ad_sidebar', '[{\"html\":\"\"}]'),
-(7, 'head', '[{\"logo\":\"https:\\/\\/litys.github.io\\/logo_white.png\",\"footer\":\"\\u00a9 2021. Wszelkie prawa zastrze\\u017cone. <a href=\\\"https:\\/\\/litys.github.pl\\\">litys.github.io<\\/a> | W\\u0142a\\u015bciciel katalogu jest litys.github.io.\"}]'),
+(7, 'head', '[{\"logo\":\"https:\\/\\/litys.github.io\\/logo_white.png\",\"footer\":\"\\u00a9 2021. Wszelkie prawa zastrze\\u017cone. <a href=\\\"https:\\/\\/litys.github.io\\\">litys.github.io<\\/a> | W\\u0142a\\u015bciciel katalogu jest litys.github.io.\"}]'),
 (8, 'stats', '[{\"bots\":\"0\",\"visits\":0}]');
 
 -- --------------------------------------------------------
